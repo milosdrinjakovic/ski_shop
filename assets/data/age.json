@@ -1,0 +1,18 @@
+[
+  {
+    "id" : 1,
+    "ageName": "Deca"
+  },
+  {
+    "id" : 2,
+    "ageName": "Junior"
+  },
+  {
+    "id" : 3,
+    "ageName": "Senior"
+  },
+  {
+    "id" : 4,
+    "ageName": "Svi uzrasti"
+  }
+]

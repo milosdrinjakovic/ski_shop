@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "General Sizes"
+  },
+  {
+    "id": 2,
+    "name": "US Sizes"
+  },
+  {
+    "id": 3,
+    "name": "Helmet Sizes"
+  },
+  {
+    "id": 4,
+    "name": "Ski Sizes"
+  }
+]

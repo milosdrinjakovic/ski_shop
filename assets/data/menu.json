@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Početna",
+    "href": "index.html"
+  },
+  {
+    "id": 2,
+    "title": "O Nama",
+    "href": "aboutUs.html"
+  },
+  {
+    "id": 3,
+    "title": "O Autoru",
+    "href": "autor.html"
+
+  }
+
+]

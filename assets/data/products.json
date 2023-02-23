@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "brandId": 1,
+    "categoryId": 2,
+    "gender": 3,
+    "age": [
+      2,
+      3
+    ],
+    "title": "Atomic Count XTD",
+    "description": "kaciga",
+    "img": {
+      "src": "assets/img/AtomicCountXTD.jpg",
+      "alt": "Atomic Count XTD ski kaciga"
+    },
+    "price": {
+      "oldPrice": 16.191,
+      "newPrice": 12.952
+    },
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "brandId": 1,
+    "categoryId": 1,
+    "size": 4,
+    "age": [
+      2,
+      3
+    ],
+    "skiSize": [
+      1,
+      2,
+      3,
+      6,
+      5
+    ],
+    "gender": 3,
+    "title": "Atomic Cloud C7",
+    "description": "skije",
+    "img": {
+      "src": "assets/img/AtomicCloudC7.jpg",
+      "alt": "Atomic CloudC7 skije"
+    },
+    "price": {
+      "oldPrice": 42.991,
+      "newPrice": 36.541
+    },
+    "discount": 2
+  },
+  {
+    "id": 3,
+    "brandId": 1,
+    "categoryId": 1,
+    "age": [
+      1,
+      3
+    ],
+    "size": 4,
+    "skiSize": [
+      4,
+      6,
+      5,
+      7,
+      8
+    ],
+    "gender": 3,
+    "title": "Atomic Maven 86",
+    "description": "skije",
+    "img": {
+      "src": "assets/img/AtomicMaven86.jpg",
+      "alt": "Atomic Maven 86 skije"
+    },
+    "price": {
+      "oldPrice": 64.991,
+      "newPrice": 45.493
+    },
+    "discount": 2
+  },
+  {
+    "id": 4,
+    "brandId": 1,
+    "categoryId": 2,
+    "gender": 3,
+    "age": [
+      1,
+      4
+    ],
+    "title": "Atomic Redster CTD",
+    "description": "kaciga",
+    "img": {
+      "src": "assets/img/AtomicRedsterCTD.jpg",
+      "alt": "Atomic Redster CTD kaciga"
+    },
+    "price": {
+      "oldPrice": 42.491,
+      "newPrice": 33.992
+    },
+    "discount": 2
+  },
+  {
+    "id": 5,
+    "brandId": 1,
+    "categoryId": 1,
+    "gender": 3,
+    "age": [
+      2,
+      3
+    ],
+    "title": "Atomic Redster S9",
+    "description": "skije",
+    "img": {
+      "src": "assets/img/AtomicRedsterS9.jpg",
+      "alt": "Atomic Redster S9 kaciga"
+    },
+    "price": {
+      "oldPrice": 42.491,
+      "newPrice": 33.992
+    },
+    "discount": 2
+  },
+  {
+    "id": 6,
+    "brandId": 1,
+    "categoryId": 1,
+    "gender": 3,
+    "age": [
+      2,
+      3
+    ],
+    "title": "Atomic Redster X7 Wb",
+    "description": "skije",
+    "img": {
+      "src": "assets/img/AtomicRedsterX7Wb.jpg",
+      "alt": "Atomic Redster X7 Wb skije"
+    },
+    "price": {
+      "oldPrice": 85.991,
+      "newPrice": 64.492
+    },
+    "discount": 1
+  },
+  {
+    "id": 7,
+    "brandId": 2,
+    "categoryId": 3,
+    "gender": 1,
+    "title": "Burton Dunmore",
+    "description": "ski jakna",
+    "img": {
+      "src": "assets/img/BurtonDunmore.jpg",
+      "alt": "Burton Jakna"
+    },
+    "price": {
+      "oldPrice": 33.291,
+      "newPrice": 23.303
+    },
+    "discount": 1
+  },
+  {
+    "id": 8,
+    "brandId": 2,
+    "categoryId": 4,
+    "gender": 1,
+    "size": [
+      1,
+      2
+    ],
+    "generalSize": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "title": "Burton Exile",
+    "description": "ski pantalone",
+    "img": {
+      "src": "assets/img/BurtonExile.jpg",
+      "alt": "Burton Exile ski pantalone"
+    },
+    "price": {
+      "oldPrice": 14.491,
+      "newPrice": 7.969
+    },
+    "discount": 1
+  },
+  {
+    "id": 9,
+    "brandId": 2,
+    "categoryId": 3,
+    "gender": 1,
+    "size": [
+      1,
+      2
+    ],
+    "generalSize": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "usSize": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "title": "Burton Gore Radial",
+    "description": "ski jakna",
+    "img": {
+      "src": "assets/img/BurtonGoreRadial.jpg",
+      "alt": "Burton Gore Radial ski jakna"
+    },
+    "price": {
+      "oldPrice": 39.991,
+      "newPrice": 29.992
+    },
+    "discount": 2
+  },
+  {
+    "id": 10,
+    "brandId": 2,
+    "categoryId": 3,
+    "gender": 3,
+    "size": [
+      1,
+      2
+    ],
+    "generalSize": [
+      1,
+      2
+    ],
+    "usSize": [
+      1,
+      2
+    ],
+    "title": "Burton Td Classic",
+    "description": "ski jakna",
+    "img": {
+      "src": "assets/img/BurtonTdClassic.jpg",
+      "alt": "Burton Td Classic ski jakna"
+    },
+    "price": {
+      "oldPrice": 11.991,
+      "newPrice": 8.393
+    },
+    "discount": 2
+  },
+  {
+    "id": 11,
+    "brandId": 3,
+    "categoryId": 3,
+    "gender": 2,
+    "size": [
+      1,
+      2
+    ],
+    "generalSize": [
+      1
+    ],
+    "usSize": [
+      1
+    ],
+    "title": "NGN Arctic",
+    "description": "NGN ski jakna",
+    "img": {
+      "src": "assets/img/NGNArctic.jpg",
+      "alt": "NGN Arctic ski jakna"
+    },
+    "price": {
+      "oldPrice": 32.991,
+      "newPrice": 14.845
+    },
+    "discount": 3
+  },
+  {
+    "id": 12,
+    "brandId": 3,
+    "categoryId": 3,
+    "gender": 2,
+    "size": [
+      1,
+      2
+    ],
+    "generalSize": [
+      3,
+      4
+    ],
+    "usSize": [
+      3,
+      4
+    ],
+    "title": "NGN Avery",
+    "description": "NGN Avery ski jakna",
+    "img": {
+      "src": "assets/img/NGNAvery.jpg",
+      "alt": "NGN Avery ski jakna"
+    },
+    "price": {
+      "oldPrice": 31.991,
+      "newPrice": 22.393
+    },
+    "discount": 4
+  }
+]

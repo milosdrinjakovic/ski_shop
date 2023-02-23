@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "value" : "Muški"
+  },
+  {
+    "id": 2,
+    "value" : "Ženski"
+  },
+  {
+    "id": 3,
+    "value" : "Unisex"
+  }
+
+]

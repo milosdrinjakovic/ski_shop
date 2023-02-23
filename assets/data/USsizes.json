@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "sizeValue": "4-6",
+    "description" : "S velicina",
+    "sizeId": 2
+  },
+  {
+    "id": 2,
+    "sizeValue": "8-10",
+    "description" : "M velicina",
+    "sizeId": 2
+  },
+  {
+    "id": 3,
+    "sizeValue": "12-14",
+    "description" : "L velicina",
+    "sizeId": 2
+  },
+  {
+    "id": 4,
+    "sizeValue": "16-18",
+    "description" : "XL",
+    "sizeId": 2
+  }
+]
