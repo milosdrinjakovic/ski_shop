@@ -1,4 +1,4 @@
-# Ski shop 
+# Ski shop (vanilla js+jquery)[practice] 
 [Ski shop](https://skishop1.000webhostapp.com/index.html)
 # Key features
 Product Catalog: Explore  Range of skiing products, from skis and snowboards to winter apparel, displayed in  online catalog.
